@@ -1,0 +1,18 @@
+If you make a cool remix, custom version, add-on, or other neat thing for the MacDaddy, you can submit it to be added as a remix!
+
+Remixes are found in the remix folder - if you'd like to check some of them out, go read the Remix Index in that folder!
+
+For simple remixes, Once you have designed, printed, and tested, you can send me (Ivan on Deterrence Dispensed Rocketchat) a .zip file that contains: STEP files, STL files, 
+Renders (pictures of the real gun preferred, since I ask that you actually print and test everything), as well as a basic README - 
+this readme only needs to describe the name of the design, the designer, and any other tidbits about it.
+
+I'll review your submission, and if everything is up to snuff (all the files I've asked for are present and it's been tested),
+I'll get it added to a collection of these remixes found here:
+
+For remixes that add parts, change function, and require anything that the main build documentation doesn't cover, I ask that you provide all the things mentioned for the simple remix,
+as well as pictures/text based instructions on how to properly assemble/use what it is you come up with (so that it is as accessible and the canonical package is).
+
+Things that aren't quite remixes (more like add-ons or doo-dads that are compatible with or designed around the MacDaddy), such as printable sights, rail accessories, etc,
+can be submitted the same was as I've described for simple remixes (unless they need special instructions/aren't completely straightforward, in which case they should be like a complex remix.
+
+For questions about this system, you can contact me (Ivan on Deterrence Dispensed Rocketchat).
