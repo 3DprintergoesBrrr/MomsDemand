@@ -1,0 +1,3 @@
+1) There are separate bodies in the step file for each of the three stipple panels that are blank by default and ready for customizing
+2) There is also a separate body in the step file that has no stipple panels
+3) This was my first real Fusion360 project so the step file is kind of a mess. You'll figure it out, I believe in you.
